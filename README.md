@@ -10,7 +10,6 @@ none
 
 
 
-This webpage uses bootstrap and html/css and JavaScript 
 
 ## Powered by
 
